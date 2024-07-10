@@ -3,6 +3,18 @@
   "displayName": "poxy",
   "description": "poxy theme",
   "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Prabal-verma/poxy-vs-theme"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "poxycodes",
+    "prabalverma",
+    "poxypixels",
+    "prabal poxy dark"
+  ],
   "engines": {
     "vscode": "^1.91.0"
   },
